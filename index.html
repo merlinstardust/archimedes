@@ -11,8 +11,8 @@
   <ul>
     {% for manual in site.data.manuals %}
       <li>
-        <a href='{{ manual.path | relative_url }}' target='_blank' rel='noopener noreferrer'>
-          {{ manual.name }} - {{ manual.type }}
+        <a href='{{ manual.path | relative_url }}.pdf' target='_blank' rel='noopener noreferrer'>
+          {{ manual.name }} - {{ manual.brand }}
         </a>
       </li>
     {% endfor %}
