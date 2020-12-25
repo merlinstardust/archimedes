@@ -1,0 +1,22 @@
+[
+  {
+    name: 'Food Processor',
+    brand: 'Cuisinart',
+    path: 'cuisinart_food_processor',
+  },
+  {
+    name: 'Stand Mixer',
+    brand: 'Kitchenaid',
+    path: 'kitchenaid_stand_mixer',
+  },
+  {
+    name: 'Ladder',
+    brand: 'Little Giant',
+    path: 'little_giant_ladder',
+  },
+  {
+    name: 'Induction Range',
+    brand: 'Samsung',
+    path: 'samsung_induction_range',
+  },
+]
