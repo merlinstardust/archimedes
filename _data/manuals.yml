@@ -15,8 +15,13 @@
     path: 'little_giant_ladder',
   },
   {
-    name: 'Induction Range',
+    name: 'Induction Range Cooktop',
     brand: 'Samsung',
-    path: 'samsung_induction_range',
+    path: 'samsung_induction_range_cooktop',
+  },
+  {
+    name: 'Induction Range Oven',
+    brand: 'Samsung',
+    path: 'samsung_induction_range_oven',
   },
 ]
