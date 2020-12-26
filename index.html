@@ -11,7 +11,7 @@
   <ul>
     {% for manual in site.data.manuals %}
       <li>
-        <a href='{{ manual.path | relative_url }}.pdf' target='_blank' rel='noopener noreferrer'>
+        <a href='manuals/{{ manual.path | relative_url }}.pdf' target='_blank' rel='noopener noreferrer'>
           {{ manual.name }} - {{ manual.brand }}
         </a>
       </li>
