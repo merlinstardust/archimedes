@@ -2,26 +2,26 @@
   {
     name: 'Food Processor',
     brand: 'Cuisinart',
-    path: 'cuisinart_food_processor',
+    path: 'manuals/cuisinart_food_processor',
   },
   {
     name: 'Stand Mixer',
     brand: 'Kitchenaid',
-    path: 'kitchenaid_stand_mixer',
+    path: 'manuals/kitchenaid_stand_mixer',
   },
   {
     name: 'Ladder',
     brand: 'Little Giant',
-    path: 'little_giant_ladder',
+    path: 'manuals/little_giant_ladder',
   },
   {
     name: 'Induction Range Cooktop',
     brand: 'Samsung',
-    path: 'samsung_induction_range_cooktop',
+    path: 'manuals/samsung_induction_range_cooktop',
   },
   {
     name: 'Induction Range Oven',
     brand: 'Samsung',
-    path: 'samsung_induction_range_oven',
+    path: 'manuals/samsung_induction_range_oven',
   },
 ]
